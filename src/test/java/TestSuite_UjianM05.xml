@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="SuiteTest">
+	<test name="Add List Data">
+		<classes>
+			<class name="com.nexsoft.cucumber.runner.CucumberRunner"></class>
+		</classes>
+	</test>
+	
+</suite> 
